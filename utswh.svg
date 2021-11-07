@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="28 62 700 199" width="672px" height="137px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="133" height="20" x="552" y="79" style="fill:#007;stroke:black;"/>
+   <text width="133" height="20" x="557" y="93" style="fill:#fff;" font-family="Arial" font-size="16px"> customers</text>
+   <rect width="133" height="20" x="552" y="99" style="fill:#aea;stroke:black;"/>
+   <text width="133" height="20" x="557" y="113" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="133" height="20" x="552" y="119" style="fill:none;stroke:black;"/>
+   <text width="133" height="20" x="557" y="133" style="fill:black;" font-family="Arial" font-size="16px">customerNumber</text>
+   <rect width="133" height="20" x="552" y="139" style="fill:none;stroke:black;"/>
+   <text width="133" height="20" x="557" y="153" style="fill:black;" font-family="Arial" font-size="16px">paymentDate</text>
+   <rect width="133" height="20" x="552" y="159" style="fill:none;stroke:black;"/>
+   <text width="133" height="20" x="557" y="173" style="fill:black;" font-family="Arial" font-size="16px">amount</text>
+   <rect width="86" height="20" x="43" y="77" style="fill:#007;stroke:black;"/>
+   <text width="86" height="20" x="48" y="91" style="fill:#fff;" font-family="Arial" font-size="16px"> offices</text>
+   <rect width="86" height="20" x="43" y="97" style="fill:#aea;stroke:black;"/>
+   <text width="86" height="20" x="48" y="111" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="86" height="20" x="43" y="117" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="48" y="131" style="fill:black;" font-family="Arial" font-size="16px">officeCode</text>
+   <rect width="86" height="20" x="43" y="137" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="48" y="151" style="fill:black;" font-family="Arial" font-size="16px">lastName</text>
+   <rect width="86" height="20" x="43" y="157" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="48" y="171" style="fill:black;" font-family="Arial" font-size="16px">firstName</text>
+   <rect width="125" height="20" x="322" y="84" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="327" y="98" style="fill:#fff;" font-family="Arial" font-size="16px"> product</text>
+   <rect width="125" height="20" x="322" y="104" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="327" y="118" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="125" height="20" x="322" y="124" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="327" y="138" style="fill:black;" font-family="Arial" font-size="16px">productName</text>
+   <rect width="125" height="20" x="322" y="144" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="327" y="158" style="fill:black;" font-family="Arial" font-size="16px">productCode</text>
+   <rect width="125" height="20" x="322" y="164" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="327" y="178" style="fill:black;" font-family="Arial" font-size="16px">quantityOrdered</text>
+</svg>
